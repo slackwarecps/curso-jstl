@@ -1,2 +1,1 @@
-# curso-jstl
-Aplicacao jstl Exemplo
+# JavaJSTL
